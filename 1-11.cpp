@@ -1,5 +1,5 @@
 /*
-11.
+11. 下列代码执行后，s 的值是（ ）。
 #include<iostream>
 
 using namespace std;
@@ -12,3 +12,7 @@ int main(){
     cout<<s<<endl;
     /*
 }
+A. 100 
+B. 10000 
+C. 200 
+D. 5050
